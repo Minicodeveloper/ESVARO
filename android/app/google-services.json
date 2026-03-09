@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817882007228",
+    "project_id": "gestionpaquetes2026",
+    "storage_bucket": "gestionpaquetes2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817882007228:android:7340762d3b340b1d63b2b9",
+        "android_client_info": {
+          "package_name": "com.example.gestion_paquetes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18czaJyPEOXc9l9FAn-3eXKD61FVfhG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
